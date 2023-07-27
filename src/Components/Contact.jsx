@@ -25,7 +25,7 @@ function Contact() {
               General Inquiries
             </h3>
             <p className="text-lg">
-              For any other inquiries or suggestions, please email us.
+              For any to other inquiries or suggestions, please email us.
             </p>
             <a className="underline text-2xl text-lime-900" href="/">
               Contact Us
