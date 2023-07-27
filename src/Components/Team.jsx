@@ -1,28 +1,34 @@
 import React from "react";
-import bgImage1 from "../assets/bg.jpg";
+import fact from "../assets/fact.png";
+import journal from "../assets/journalist.jpg";
+import research from "../assets/researcher.png";
+import edit from "../assets/editor.jpg";
 
-const blurImage1 = bgImage1;
+const factChecker = fact;
+const journalist = journal;
+const researcher = research;
+const editor = edit;
 
 const people = [
   {
     name: "Fact Checker",
-    imageUrl: blurImage1,
+    imageUrl: factChecker,
     role: "Passionate about the truth, out fact checkers are meticulous and detail-oriented.",
   },
   {
     name: "Investigative Journalist",
     role: "Our journalist use their expertise to dig deep and uncover the facts",
-    imageUrl: blurImage1,
+    imageUrl: journalist,
   },
   {
     name: "Researcher",
     role: "Committed to accuracy, our researchers collect and analyze data to corroborate the information.",
-    imageUrl: blurImage1,
+    imageUrl: researcher,
   },
   {
     name: "Editor",
     role: "Our editors ensure that our content is clear, concise, and error-free.",
-    imageUrl: blurImage1,
+    imageUrl: editor,
   },
 ];
 
