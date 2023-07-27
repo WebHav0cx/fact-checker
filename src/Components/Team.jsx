@@ -2,7 +2,6 @@ import React from "react";
 import bgImage1 from "../assets/bg.jpg";
 
 const blurImage1 = bgImage1;
-// const blurImage2 = bgImage2;
 
 const people = [
   {
